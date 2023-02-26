@@ -4,7 +4,6 @@
   <groupId>com.example.mylibrary</groupId>
   <artifactId>final</artifactId>
   <version>1.0</version>
-  <extensions>true</extensions>
-  <packaging>aar</packaging>
+  <packaging>jar</packaging>
   <dependencies/>
 </project>
